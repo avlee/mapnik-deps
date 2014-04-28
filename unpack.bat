@@ -1,1 +1,1 @@
-.\bin\7za.exe e gdal\lib\gdal.7z -ogdal\lib
+.\bin\7za.exe e gdal\lib\gdal.7z -ogdal\lib -y

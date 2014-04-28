@@ -8,6 +8,6 @@ Usage:
 
     git clone https://github.com/avlee/mapnik-deps.git
     
-    unpack.bat
+    unpack
 
-The unpack.bat cmd is used to extract the gdal.lib file from the 7z archive file, because github's file size limited to 100 MB.
+The unpack cmd is used to extract the gdal.lib file from the 7z archive file, because github's file size limited to 100 MB.
