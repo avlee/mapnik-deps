@@ -1,0 +1,1 @@
+.\bin\7za.exe a gdal\lib\gdal.7z gdal\lib\gdal.lib
